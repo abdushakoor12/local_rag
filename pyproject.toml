@@ -5,5 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "ruff>=0.12.9",
+    "chromadb>=1.0.17",
+    "gradio>=5.42.0",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.27",
+    "langchain-ollama>=0.3.6",
+    "ruff==0.12.9",
 ]
